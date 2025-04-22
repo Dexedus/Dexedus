@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-✨Welcome✨
+Welcome
 
 - 🔭 I’m currently working on TheLCBiologyGuy and Talker.
 - ⚡️ Fun fact: I am a qualified electrician.
